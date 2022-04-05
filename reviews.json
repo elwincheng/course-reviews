@@ -1,0 +1,167 @@
+[
+  {
+    "courseID": 1,
+    "name": "Alice Kim",
+    "data": "Amazing Professor, teaches well and is very kind. Would recommend this course. 10/10"
+  },
+  {
+    "courseID": 1,
+    "name": "Daniel Keys",
+    "data": "This is by far the best course at UofT!"
+  },
+  {
+    "courseID": 1,
+    "name": "Joe Malone",
+    "data": "Hi there, this is one of my favourite classes with my favourite people. I wish I could take this class again!"
+  },
+  {
+    "courseID": 1,
+    "name": "Lisa",
+    "data": "This was one of the hardest courses I've ever taken, but also one of the most rewarding. "
+  },
+  {
+    "courseID": 2,
+    "name": "Alice Kim",
+    "data": "Amazing Professor, teaches well and is very kind. Would recommend this course. 10/10"
+  },
+  {
+    "courseID": 2,
+    "name": "Daniel Keys",
+    "data": "This is by far the best course at UofT!"
+  },
+  {
+    "courseID": 2,
+    "name": "Joe Malone",
+    "data": "Hi there, this is one of my favourite classes with my favourite people. I wish I could take this class again!"
+  },
+  {
+    "courseID": 2,
+    "name": "Lisa",
+    "data": "This was one of the hardest courses I've ever taken, but also one of the most rewarding. "
+  },
+  {
+    "courseID": 3,
+    "name": "Alice Kim",
+    "data": "Amazing Professor, teaches well and is very kind. Would recommend this course. 10/10"
+  },
+  {
+    "courseID": 3,
+    "name": "Daniel Keys",
+    "data": "This is by far the best course at UofT!"
+  },
+  {
+    "courseID": 3,
+    "name": "Joe Malone",
+    "data": "Hi there, this is one of my favourite classes with my favourite people. I wish I could take this class again!"
+  },
+  {
+    "courseID": 3,
+    "name": "Lisa",
+    "data": "This was one of the hardest courses I've ever taken, but also one of the most rewarding. "
+  },
+  {
+    "courseID": 4,
+    "name": "Alice Kim",
+    "data": "Amazing Professor, teaches well and is very kind. Would recommend this course. 10/10"
+  },
+  {
+    "courseID": 4,
+    "name": "Daniel Keys",
+    "data": "This is by far the best course at UofT!"
+  },
+  {
+    "courseID": 4,
+    "name": "Joe Malone",
+    "data": "Hi there, this is one of my favourite classes with my favourite people. I wish I could take this class again!"
+  },
+  {
+    "courseID": 4,
+    "name": "Lisa",
+    "data": "This was one of the hardest courses I've ever taken, but also one of the most rewarding. "
+  },
+  {
+    "courseID": 5,
+    "name": "Alice Kim",
+    "data": "Amazing Professor, teaches well and is very kind. Would recommend this course. 10/10"
+  },
+  {
+    "courseID": 5,
+    "name": "Daniel Keys",
+    "data": "This is by far the best course at UofT!"
+  },
+  {
+    "courseID": 5,
+    "name": "Joe Malone",
+    "data": "Hi there, this is one of my favourite classes with my favourite people. I wish I could take this class again!"
+  },
+  {
+    "courseID": 5,
+    "name": "Lisa",
+    "data": "This was one of the hardest courses I've ever taken, but also one of the most rewarding. "
+  },
+  {
+    "courseID": 6,
+    "name": "Alice Kim",
+    "data": "Amazing Professor, teaches well and is very kind. Would recommend this course. 10/10"
+  },
+  {
+    "courseID": 6,
+    "name": "Daniel Keys",
+    "data": "This is by far the best course at UofT!"
+  },
+  {
+    "courseID": 6,
+    "name": "Joe Malone",
+    "data": "Hi there, this is one of my favourite classes with my favourite people. I wish I could take this class again!"
+  },
+  {
+    "courseID": 6,
+    "name": "Lisa",
+    "data": "This was one of the hardest courses I've ever taken, but also one of the most rewarding. "
+  },
+  {
+    "courseID": 7,
+    "name": "Alice Kim",
+    "data": "Amazing Professor, teaches well and is very kind. Would recommend this course. 10/10"
+  },
+  {
+    "courseID": 7,
+    "name": "Daniel Keys",
+    "data": "This is by far the best course at UofT!"
+  },
+  {
+    "courseID": 7,
+    "name": "Joe Malone",
+    "data": "Hi there, this is one of my favourite classes with my favourite people. I wish I could take this class again!"
+  },
+  {
+    "courseID": 7,
+    "name": "Lisa",
+    "data": "This was one of the hardest courses I've ever taken, but also one of the most rewarding. "
+  },
+  {
+    "courseID": 1,
+    "name": "Elwin",
+    "data": "Amazin course"
+  },
+  {
+    "courseID": 1,
+    "name": "Elwin",
+    "data": "Amazing Professor, teaches well and is very kind. Would recommend this course. 10/10"
+  },
+  {
+    "courseID": 1,
+    "name": "Elwin",
+    "data": "Amazing Professor, teaches well and is very kind. Would recommend this course. 10/10"
+  },
+  {
+    "courseID": 1,
+    "name": "Elwin",
+    "data": "Amazing Professor, teaches well and is very kind. Would recommend this course. 10/10"
+  },
+  {
+    "courseID": 3,
+    "name": "Elwin",
+    "data": "Amazing Professor, teaches well and is very kind. Would recommend this course. 10/10"
+  }
+]
